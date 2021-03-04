@@ -20,7 +20,7 @@ The project was initially a largely blank canvas with minimal content or styling
 
 ## Homepage Image
 
-![Example screenshot](./public/Images/homepageScreenshotForReadMe.png)
+![Example screenshot](./homepageScreenshotForReadMe.png)
 
 ## Technologies Used
 
