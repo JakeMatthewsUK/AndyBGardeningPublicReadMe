@@ -14,7 +14,7 @@ A Single Page Application built for a small business. The website uses React.js 
 
 ## General info
 
-The aim of this project was to create the first website for a newly created garden service company. It also served as the developer's first experience of web development and a chance to put some newly learnt technology into action. The site functions as a place for the owner to describe their unique business offering and to advertise the services that they have to offer, along wth hosting their image and blog content. There are currently no plans for user accounts or an online store.
+The aim of this project was to create the first website for a newly created garden service company. The site functions as a place for the owner to describe their unique business offering and to advertise the services that they have to offer, along wth hosting their image and blog content. There are currently no plans for user accounts or an online store.
 
 The project was initially a largely blank canvas with minimal content or styling put forward by the client. It was built using plain HTML5/CSS3, and went through several early overhauls as better ways of managing the project were found, along with the addition of new content. The decision was made to switch to React for a few reasons - for smoother navigation, to reduce the codebase for easier maintenance going forward and to provide experience working with a component-based Javascript library.
 
@@ -76,7 +76,6 @@ Some interesting features of the project:
 
 - An interactive slide-scrolling before/after image feature that allows the user to see the client's work transform a garden from a previous job
 - Use of Function Components to help separate and group the content (image urls, descriptions, etc) away from the structure and styling for easier maintenance
-- Image optimisation techniques to compress the lower-detail areas of the banner image from the areas of interest (the bee picture) to improve performace
 - Lazy-loading techniques to limit preloading of content until it is neccesary
 
 Some things still to do:
